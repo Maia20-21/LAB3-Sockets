@@ -1,0 +1,5 @@
+a) Ao executar o cliente TCP antes do servidor, ocorre erro de conexão, pois o servidor não está ativo para aceitar conexões.
+
+b) No UDP, o cliente consegue enviar mensagens mesmo sem o servidor estar ativo, pois não há estabelecimento de conexão. Diferente do TCP, que exige conexão prévia e gera erro caso o servidor não esteja disponível.
+
+c) Se o cliente utilizar uma porta diferente da porta do servidor, a comunicação não ocorre, pois o servidor não está escutando naquela porta específica, fazendo com que as mensagens não sejam recebidas.
