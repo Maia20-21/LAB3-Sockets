@@ -1,2 +1,0 @@
-Olá! Este é um arquivo de exemplo do servidor.
-Redes de Computadores - Mackenzie
