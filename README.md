@@ -110,24 +110,25 @@ Aplicação desenvolvida utilizando sockets.
 
 ### Descrição
 
-Descrever a proposta da aplicação desenvolvida.
+A aplicação desenvolvida é um sistema de chat com transferência de arquivos utilizando socket TCP em Python. O servidor aguarda a conexão de um cliente e, após conectado, oferece um menu de comandos. O usuário pode listar os arquivos disponíveis no servidor, baixar um arquivo do servidor para o cliente, enviar um arquivo do cliente para o servidor, e trocar mensagens de chat em tempo real. A comunicação é feita via protocolo TCP na porta 10389, garantindo a entrega confiável dos dados.
+
 
 ---
 
 ### Como executar
 
-No diretório `q3-aplicacao`:
+No diretório `q3- Aplicacao`:
 
 Terminal 1:
 
 ```
-python server.py
+python q3_servidor.py
 ```
 
 Terminal 2:
 
 ```
-python client.py
+python q3-cliente.py
 ```
 
 ---
