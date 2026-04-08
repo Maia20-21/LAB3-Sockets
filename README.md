@@ -145,4 +145,4 @@ python q3-cliente.py
 * A porta utilizada segue o padrão solicitado (baseada no TIA)
 * Os códigos foram desenvolvidos para fins acadêmicos
 * O projeto pode ser executado localmente em múltiplos terminais
-* No TCP, é necessário iniciar o servidor antes do cliente
+* No TCP, é necessário iniciar o servidor antes do cliente para não dar erro
