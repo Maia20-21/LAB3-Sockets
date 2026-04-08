@@ -135,7 +135,7 @@ python q3-cliente.py
 
 ## Vídeos
 
-* Vídeo 1 (Questões 1 e 2): [Redes de Computadores #LAB3 - Questão 1 e Questão 2](https://youtu.be/gvEsuuqGQzg)
+* Vídeo 1 (Questões 1 e 2): [Redes de Computadores #LAB3 - Questão 1 e Questão 2](https://youtu.be/lcaLXKhJ1-g)
 * Vídeo 2 (Questão 3): [Redes de Computadores #LAB3 - Questão 3](https://youtu.be/gvEsuuqGQzg)
 
 ---
